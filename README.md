@@ -1,0 +1,5 @@
+- 👋 Hi, I'm John Jimenez.
+- 👨‍💻 I'm an Information Technology major with a concentration in Cybersecurity.
+- 🌱 I'm currently in an internship where I'm gaining hands-on experience with NIST (National Institute of Standards and Technology) frameworks, focusing on cybersecurity.
+- 💼 I'm actively seeking opportunities to collaborate on cybersecurity projects and initiatives.
+- 📫 You can reach me via email at jimenezjohn2529@gmail.com or connect with me on(https://www.linkedin.com/in/john--jimenez/)https://www.linkedin.com/in/john--jimenez/.
